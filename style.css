@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: Fantasy;
+}
+
+h1 {
+  text-align: center;
+}
+
+.homepage {
+  font-size: 30;
+}
+
+.home {
+  text-align: center;
+  background-color: rgb(189, 181, 181);
+}
