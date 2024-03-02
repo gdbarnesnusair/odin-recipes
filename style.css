@@ -1,6 +1,7 @@
 body {
   background-color: rgb(255, 255, 255);
   font-family: Fantasy;
+  border-style: groove;
 }
 
 h1 {
@@ -14,4 +15,10 @@ h1 {
 .home {
   text-align: center;
   background-color: rgb(189, 181, 181);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
